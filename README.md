@@ -5,7 +5,7 @@ The program harnesses the RISC-V architecture and employs open-source tools to i
 
 BASIC DETAILS:
 
-Name: Dheeraj
+Name: chandan M
 
 College: Sahyadri college of Engineering and management,Adyar,Mangalore-575007
 
